@@ -1,0 +1,296 @@
+body {
+    font-family: "Roboto", sans-serif;
+    background-color: #fff;
+}
+
+.half-div {
+    overflow: none !important;
+}
+
+.btn-120 {
+    width: 120px;
+}
+
+.bootbox-close-button {
+    display: none !important;
+}
+
+.table-small td {
+    padding: 0.25rem;
+}
+
+.account2 .name {
+    font-size: 16px;
+}
+
+.header-desktop2 {
+    /* background: #fed700; */
+    background: #007bff;
+}
+
+.btn-round {
+    display: block;
+    border-radius: 100%;
+    text-align: center;
+    box-shadow: 0 3px 15px -2px rgba(37, 45, 51, 0.4);
+    transition: all ease-in 0.15s;
+    border: none;
+}
+
+.btn-round.btn-primary {
+    padding: 10px 12px !important;
+}
+
+.btn-primary {
+    padding: 12px;
+    font-weight: 700;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    line-height: 15px;
+    background: #00b7f1 !important;
+    border: 1px solid #00a6d8 !important;
+}
+
+.btn-sm {
+    padding: 0.25rem 0.5rem !important;
+}
+
+.badge {
+    padding: 5px !important;
+}
+
+.badge-warning {
+    background: #fdb612 !important;
+}
+
+.badge-primary {
+    background: #00b7f1 !important;
+}
+
+.menu-sidebar2 .logo {
+    background: #001241;
+    /*#142467;/*#007bff; /*#ffe13f;*/
+}
+
+@media screen and (min-width: 992px) {
+    .menu-sidebar2 {
+        width: 180px;
+    }
+    .page-container2 {
+        padding-left: 180px;
+    }
+    .header-desktop2 {
+        left: 180px;
+    }
+}
+
+a .icon {
+    color: #4b5668;
+    font-weight: 500;
+    font-size: 25px;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;
+}
+
+.navbar-sidebar2 .navbar__list li a {
+    font-size: 13px;
+    padding: 10px 35px;
+}
+
+.navbar-sidebar2 .navbar__list li .arrow {
+    top: -8px;
+}
+
+.table-data2.table tbody tr td:first-child {
+    vertical-align: middle;
+}
+
+.table-data2.table tbody td {
+    padding: 5px;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.table-data2.table thead th {
+    padding: 3px;
+    text-transform: none;
+    border-bottom: 1px solid #f2f2f2;
+}
+
+.table-input-int {
+    width: 80px;
+}
+
+.ml-15 {
+    margin-left: 380px !important;
+}
+
+.text-sm {
+    font-size: 11px !important;
+}
+
+.table-input-date {
+    width: 100px;
+}
+
+.table-input-date,
+.table-input-int {
+    border: none;
+}
+
+.sub-cat {
+    color: #4a5567;
+    font-weight: normal;
+    font-size: 17px;
+    margin-top: 20px;
+    margin-left: -3px;
+    padding: 8px;
+    font-weight: bolder;
+}
+
+.header-desktop2 {
+    height: 45px;
+    background-color: #fff;
+    border-bottom: 1px solid #e6e7eb;
+}
+
+.menu-sidebar2 .logo {
+    height: 40px;
+    width: 200px;
+    margin: 10px 0px 0px -20px;
+}
+
+.modal-lg {
+    max-width: 80%;
+}
+
+.ast {
+    color: #00b7f1;
+}
+
+.form-control {
+    border: 1px solid #dcdee0;
+    border-radius: 3px;
+    vertical-align: middle;
+    height: 40px;
+    padding: 0px 15px;
+    color: #555555;
+    font-size: 15px;
+    background-color: #ffffff;
+    font-weight: inherit;
+}
+
+.control-label {
+    margin-top: 7px !important;
+}
+
+.form-control:focus {
+    color: #495057;
+    background-color: #fff;
+    border-color: #001140;
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+.open {
+    color: #eaeaea !important;
+}
+
+.header-button-item {
+    color: #000;
+}
+
+.page-container2 {
+    background-color: #fff;
+}
+
+.navbar-sidebar2 .navbar__list li a {
+    font-size: 14px;
+    color: #eaeaea;
+    font-weight: 700;
+    border-bottom: none;
+    text-align: center;
+    background: #001140;
+}
+
+.badge {
+    font-weight: 300 !important;
+}
+
+.navbar-sidebar2 .navbar__list li a:hover {
+    color: #8a9099;
+}
+
+.menu-sidebar2 {
+    background-color: #001241;
+}
+
+.account2 .name {
+    font-size: 16px;
+    color: #eaeaea;
+    font-weight: 600;
+}
+
+.account2 {
+    border-bottom: none;
+}
+
+.menu-sidebar2__content {
+    border-right: none;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 42px;
+    margin: 0px 0px 25px 0px;
+    margin-bottom: 25px;
+    color: #1e2736;
+    font-weight: 300;
+}
+
+.table td,
+.table th {
+    padding: 5px;
+    font-size: 14px;
+    border-top: none;
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(0, 0, 0, 0.075) !important;
+}
+
+input.form-control {
+    height: 30px;
+}
+
+.partner-table {
+    width: 1000px !important;
+}
+
+.table td,
+.table th {
+    max-width: 100%;
+    white-space: nowrap;
+    width: 30% !important;
+}
+
+.partner-table thead th {
+    text-align: center !important;
+}
+
+.table td.yellow,
+.table th.yellow {
+    background-color: lemonchiffon !important;
+}
+
+.table td.green,
+.table th.green {
+    background-color: #98fb98 !important;
+}
+
+.table td.blue,
+.table th.blue {
+    background-color: paleturquoise !important;
+}
+
+.table .br {
+    border-right: 2px solid #dee2e6;
+}
